@@ -1,0 +1,44 @@
+body{
+    background-color: darkkhaki;
+}
+
+h1{
+    color: blue;
+       
+}
+
+.header1{
+    font-style: bold;
+    color: blueviolet;
+}
+
+.header2{
+    font-style: bold;
+    color: chartreuse;
+}
+
+
+.parte1{
+    background-color: burlywood;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: baseline;
+    margin: 15px;
+}
+
+.parte2{
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: baseline;
+    margin: 15px;
+}
+
+.img{
+    width: 50px;
+    height: 50px;
+    margin: 30px;
+
+}
