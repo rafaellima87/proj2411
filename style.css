@@ -14,7 +14,7 @@ h1{
 
 .header2{
     font-style: bold;
-    color: chartreuse;
+    color: red;
 }
 
 
@@ -24,7 +24,8 @@ h1{
     flex-direction: column;
     justify-content: space-around;
     align-items: baseline;
-    margin: 15px;
+    margin: 5%;
+    padding: 5%;
 }
 
 .parte2{
@@ -33,7 +34,18 @@ h1{
     flex-direction: row;
     justify-content: space-between;
     align-items: baseline;
-    margin: 15px;
+    margin: 5%;
+    padding: 5%;
+}
+
+.parte3{
+    border-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: baseline;
+    margin: 5%;
+    padding: 5%;
 }
 
 .img{
@@ -42,3 +54,4 @@ h1{
     margin: 30px;
 
 }
+
